@@ -7,12 +7,12 @@
 	"envCommands": {
 		"daily": {
 			"rewardDay1": {
-				"coin": 100,
-				"exp": 10
+				"coin": 100000,
+				"exp": 1000
 			}
 		},
 		"notification": {
-			"delayPerGroup": 250
+			"delayPerGroup": 250000
 		},
 		"rank": {
 			"deltaNext": 5
