@@ -9,7 +9,7 @@ module.exports = {
         message.reply("How can I help you?")
     },
     onChat: async function ({ message, event }) {
-        if (event.body && event.body.toLowerCase() === "rosa") {
+        if (event.body && event.body.toLowerCase() === "primo") {
             message.reply("Hello, how may I help?")
         }
     }
