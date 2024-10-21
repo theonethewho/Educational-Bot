@@ -26,10 +26,10 @@ module.exports = {
                         session2: "noon",
                         session3: "afternoon",
                         session4: "evening",
-                        welcomeMessage: "Hello, good {session}. I'm Primo, your assistant.",
+                        welcomeMessage: "Connected. My prefix: $",
                         multiple1: "you",
                         multiple2: "you guys",
-                        defaultWelcomeMessage: `Welcome, {userNameTag}, Hello I'm Primo. Your assistant bot.`
+                        defaultWelcomeMessage: `Welcome to {boxName}.`
                 }
         },
 
